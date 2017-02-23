@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "vgs-cocoa"
-  s.version = "0.0.2"
+  s.version = "0.0.1"
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.summary = "VGS framework library for Cocoa"
   s.homepage = "http://github.com/suzukiplan/vgs-cocoa"
